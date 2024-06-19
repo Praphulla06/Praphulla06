@@ -11,4 +11,4 @@
 
 - *Mathematics*
 
-## **_Waking every day feels like living inside a nested recursion!_**
+## **_Waking up every day feels like living inside a nested recursion!_**
