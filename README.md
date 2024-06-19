@@ -2,7 +2,7 @@
 
 ## *I like italic font style*
 
-### Things I like
+### *Things I like*
 
 - *Programming*
 - *Italic Font Style*
