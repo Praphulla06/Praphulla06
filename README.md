@@ -5,7 +5,8 @@
 
 - *Programming, Computer Science & Mathematics*
 
+### *Currently Learning*
 
-### *Things I occasionally don't like*
+- *Asp.net core"
 
-- *Programming, Computer Science & Mathematics*
+
